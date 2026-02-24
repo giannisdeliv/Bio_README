@@ -13,7 +13,7 @@
 
 I'm a Computer Engineering graduate actively seeking my first professional role in **Embedded Systems and IoT**. I enjoy building projects that sit at the intersection of hardware and software — from low-level ARM assembly to cloud-connected IoT pipelines.
 
-- 🔭 Currently looking for opportunities in **Embedded / IoT / Systems Engineering**
+- 🔭 Looking for job opportunities in **Embedded / IoT / Systems Engineering**
 - 🌱 Experienced with **Raspberry Pi**, **FIWARE**, **MQTT**, **Node-RED** and **HTTP protocols**
 - ⚙️ Comfortable working close to the metal — **C, ARM Assembly**
 - 🐍 Python is my go-to for scripting, sensors, and automation
