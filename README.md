@@ -4,7 +4,7 @@ giannisdeliv(Bio_README)
 <h1 align="center">Hi, I'm Giannis Delivasilis 👋</h1>
 
 <p align="center">
-  Embedded Systems & IoT Engineer &nbsp;|&nbsp; Python · C · Linux · Raspberry Pi
+  Electrical and Computer Engineer (Embedded Systems & IoT) &nbsp;|&nbsp; Python · C · Linux · Raspberry Pi
 </p>
 
 ---
