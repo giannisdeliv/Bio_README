@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi, I'm Giannis Delivasilis 👋</h1>
+<h1 align="center">Hi, I'm Ioannis Delivasilis 👋</h1>
 
 <p align="center">
   Electrical and Computer Engineer (Embedded Systems & IoT) &nbsp;|&nbsp; Python · C · Linux · Raspberry Pi
