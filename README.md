@@ -1,5 +1,5 @@
 # Bio_README
-giannisdeliv(Bio_README)
+
 
 <h1 align="center">Hi, I'm Giannis Delivasilis 👋</h1>
 
