@@ -60,6 +60,4 @@ I'm open to entry-level positions, internships, and collaborations in the Embedd
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giannisdeliv&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+
