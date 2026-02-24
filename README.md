@@ -15,9 +15,9 @@ I'm a Computer Engineering graduate actively seeking my first professional role 
 
 - 🔭 Currently looking for opportunities in **Embedded / IoT / Systems Engineering**
 - 🌱 Experienced with **Raspberry Pi**, **FIWARE**, **MQTT**, **Node-RED** and **HTTP protocols**
-- ⚙️ Comfortable working close to the metal — **C, ARM Assembly, Verilog**
+- ⚙️ Comfortable working close to the metal — **C, ARM Assembly**
 - 🐍 Python is my go-to for scripting, sensors, and automation
-- 📍 Based in Greece
+- 📍 Based in Greece/Germany
 
 ---
 
